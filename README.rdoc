@@ -1,28 +1,11 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This Rails Project was created while learning Ruby and ROR framework.
 
-Things you may want to cover:
+To run this todo application clone the repository in local machine
+  git clone https://github.com/aspiresoftware/redmine-todo-tasks.git
 
-* Ruby version
+Change tha database configuration from config>database.yml 
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+Go to the application direcorty and excute following command
+   rails s 
